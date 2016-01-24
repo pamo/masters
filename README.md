@@ -13,7 +13,7 @@ This repo is for the workshop on "Building Modern Single-Page Web Applications" 
 2. Familiarizing you with basics of:
     - ES6+
     - Node.js/npm
-    - Ampersand.js
+    - [Ampersand.js](https://ampersandjs.com/)
     - React
     - Webpack
     - Isomorphic Rendering
@@ -24,27 +24,23 @@ This repo is for the workshop on "Building Modern Single-Page Web Applications" 
 
 ## Rough Outline
 
-**9:00 Start**
-
 - Short intro talk
 - Project setup
-- Discuss node, npm, hjs-webpack
+- Discuss node, npm, [hjs-webpack](https://github.com/HenrikJoreteg/hjs-webpack)
 - Render basic "hello" content with React
 - Intro to React.js
 - show build step
 
-** frameworks talk/discussion **
 
 - Adding styles
-    - show yeticss.com
+    - show [&yet visual styleguide](yeticss.com)
     - create styles folder in src
-    - import yeticss.com
+    - import &yet
     - show what happens when you build now
     - show live reloading in action
 - Convert ES5 React module to ES6
     - compare them side-by-side
 
-**10:30 - 11:00 morning break**
 
 - Install and use the router
     - public and 'repos' routes
@@ -56,7 +52,6 @@ This repo is for the workshop on "Building Modern Single-Page Web Applications" 
 - Add layout.js
 - Local links/Internal Nav Component
 
-**12:30 - 1:45 Lunch Break**
 
 - Authing with GitHub
     - Understanding Standard OAuth Flows
@@ -66,14 +61,12 @@ This repo is for the workshop on "Building Modern Single-Page Web Applications" 
 - Fetching "me" from github
 - Binding username
 
-**3:15 - 3:45 Afternoon Break**
 
 - Rendering list of Repos
 - Adding Octicons
 
 ## Day 2
 
-**9:00 Start**
 
 - Repo Detail Page
 - Rendering The Labels
@@ -83,22 +76,12 @@ This repo is for the workshop on "Building Modern Single-Page Web Applications" 
 - Updating Labels
 - Creating New Labels
 
-**10:30 - 11:00 morning break**
-
 - Configs and Deploys
 - Deploying with Surge
 - Adding A 404 Page
 
-**12:30 - 1:45 Lunch Break**
-
 - Static Isomorphic Rendering
 - Using Standard for Code Style
-
-**3:15 - 3:45 Afternoon Break**
-
-- wrap up discussion
-- open questions
-- open hacking (see suggestions below)
 
 ## Taking it further
 
@@ -122,11 +105,3 @@ In addition, you may want to try adding the following:
 - [Setting up ESLint, React and ES6](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48)
 - [Complete HubTags.com Source](https://github.com/henrikjoreteg/hubtags.com)
 
-
-## Feedback
-
-Honest feedback is golden. Please take a minute to say what you liked/what you didn't: http://j.mp/masters-feedback
-
-If you liked it maybe even tweet about it :) I'm [@HenrikJoreteg](http://twitter.com/henrikjoreteg) on twitter. 
-
-<3
